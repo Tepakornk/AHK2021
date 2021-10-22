@@ -1,6 +1,6 @@
 
 
-Label new test Thailand
+Label
 
 
 Point 1= 742,78
