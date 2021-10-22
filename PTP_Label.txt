@@ -1,0 +1,15 @@
+create this file and save - close 
+copy Label for get x,y
+point mouse and enter
+-------------------------
+CPA
+Additionalsetting
+next
+submit
+close1
+close2
+TabPaymentArrangement
+TabAdditionalsetting
+Calendar
+PTPcorp
+nextcorp   
