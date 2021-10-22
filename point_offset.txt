@@ -3,6 +3,11 @@
 
 
 Label thailand singapore
+;use PAT instread use
+;refer https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+PAT= ..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...
+$ git push https://{...Push the PAT here..}@github.com/tepakornk/ahk2021.git
+;using $ git push https://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@github.com/tepakornk/ahk2021.git
 
 
 Point 1= 742,78
