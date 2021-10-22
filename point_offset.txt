@@ -1,6 +1,6 @@
 
 
-Label new test
+Label new test Thailand
 
 
 Point 1= 742,78
